@@ -1,0 +1,24 @@
+Consolidated Statements of Operations (Income Statement)
+
+Net revenues:us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+Cost of goods sold:us-gaap:CostOfGoodsAndServicesSold
+Selling, general and administrative expenses:us-gaap:SellingGeneralAndAdministrativeExpense
+Impairment of goodwill and intangible assets:us-gaap:GoodwillAndIntangibleAssetImpairment
+Total costs and operating expenses:us-gaap:CostsAndExpenses
+Operating income:us-gaap:OperatingIncomeLoss
+Interest income:us-gaap:InvestmentIncomeInterest
+Interest expense:us-gaap:InterestExpense
+Loss on debt extinguishment:us-gaap:GainsLossesOnExtinguishmentOfDebt
+Other income (expense), net:us-gaap:OtherNonoperatingIncomeExpense
+Income from continuing operations before income taxes:us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest
+Income tax expense (benefit):us-gaap:IncomeTaxExpenseBenefit
+Income from continuing operations:us-gaap:IncomeLossFromContinuingOperations
+Income from discontinued operations, net of tax:us-gaap:IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity
+Net income:us-gaap:NetIncomeLoss
+Continuing operations :us-gaap:IncomeLossFromContinuingOperationsPerBasicShare
+Discontinued operations :us-gaap:DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerBasicShare
+Total earnings per common share - basic :us-gaap:EarningsPerShareBasic
+Total earnings per common share - diluted :us-gaap:EarningsPerShareDiluted
+Basic:us-gaap:WeightedAverageNumberOfSharesOutstandingBasic
+Diluted:us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding
+

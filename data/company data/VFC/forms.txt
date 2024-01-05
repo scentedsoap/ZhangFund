@@ -1,0 +1,6120 @@
+file_type: 8-K
+
+string sequence: 000095012323011228
+filing date20231218
+<FILER>
+<COMPANY-DATA>
+<CONFORMED-NAME>V F CORP
+<CIK>0000103379
+<ASSIGNED-SIC>2320
+<ORGANIZATION-NAME>04 Manufacturing
+<IRS-NUMBER>231180120
+<STATE-OF-INCORPORATION>PA
+<FISCAL-YEAR-END>0330
+</COMPANY-DATA>
+<FILING-VALUES>
+<FORM-TYPE>8-K
+<ACT>34
+<FILE-NUMBER>001-05256
+<FILM-NUMBER>231492205
+</FILING-VALUES>
+<BUSINESS-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+<PHONE>(720) 778-4000
+</BUSINESS-ADDRESS>
+<MAIL-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+</MAIL-ADDRESS>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VF CORPORATION
+<DATE-CHANGED>19900621
+</FORMER-COMPANY>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VANITY FAIR MILLS INC
+<DATE-CHANGED>19690520
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+url: https://www.sec.gov/Archives/edgar/data/103379/000095012323011228/0000950123-23-011228-index-headers.html
+file_type: 4
+
+string sequence: 000112760223027390
+filing date20231114
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223027390/0001127602-23-027390-index-headers.html
+file_type: 4
+
+string sequence: 000112760223027389
+filing date20231114
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223027389/0001127602-23-027389-index-headers.html
+file_type: 4
+
+string sequence: 000112760223027388
+filing date20231114
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223027388/0001127602-23-027388-index-headers.html
+file_type: 4
+
+string sequence: 000112760223027387
+filing date20231114
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223027387/0001127602-23-027387-index-headers.html
+file_type: 4
+
+string sequence: 000112760223027386
+filing date20231114
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223027386/0001127602-23-027386-index-headers.html
+file_type: 4
+
+string sequence: 000112760223027385
+filing date20231114
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223027385/0001127602-23-027385-index-headers.html
+file_type: 4
+
+string sequence: 000112760223027261
+filing date20231113
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223027261/0001127602-23-027261-index-headers.html
+file_type: 4
+
+string sequence: 000112760223026858
+filing date20231106
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223026858/0001127602-23-026858-index-headers.html
+file_type: 4
+
+string sequence: 000112760223026772
+filing date20231103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223026772/0001127602-23-026772-index-headers.html
+file_type: 4
+
+string sequence: 000112760223026764
+filing date20231103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223026764/0001127602-23-026764-index-headers.html
+file_type: 4
+
+string sequence: 000112760223026752
+filing date20231103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223026752/0001127602-23-026752-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337923000018
+filing date20231103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337923000018/0000103379-23-000018-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752323001573
+filing date20231030
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752323001573/0001157523-23-001573-index-headers.html
+file_type: 3
+
+string sequence: 000112760223026314
+filing date20231027
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223026314/0001127602-23-026314-index-headers.html
+file_type: 3
+
+string sequence: 000112760223026311
+filing date20231027
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223026311/0001127602-23-026311-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312523260841
+filing date20231023
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523260841/0001193125-23-260841-index-headers.html
+file_type: 4
+
+string sequence: 000112760223025212
+filing date20231003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223025212/0001127602-23-025212-index-headers.html
+file_type: 4
+
+string sequence: 000112760223025206
+filing date20231003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223025206/0001127602-23-025206-index-headers.html
+file_type: 4
+
+string sequence: 000112760223025198
+filing date20231003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223025198/0001127602-23-025198-index-headers.html
+file_type: 4
+
+string sequence: 000112760223025186
+filing date20231003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223025186/0001127602-23-025186-index-headers.html
+file_type: 4
+
+string sequence: 000112760223025171
+filing date20231003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223025171/0001127602-23-025171-index-headers.html
+file_type: 4
+
+string sequence: 000112760223025161
+filing date20231003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223025161/0001127602-23-025161-index-headers.html
+file_type: 25-NSE
+
+string sequence: 000087666123000742
+filing date20230920
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000087666123000742/0000876661-23-000742-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312523231740
+filing date20230911
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523231740/0001193125-23-231740-index-headers.html
+file_type: 4
+
+string sequence: 000112760223023496
+filing date20230831
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223023496/0001127602-23-023496-index-headers.html
+file_type: 4
+
+string sequence: 000112760223022286
+filing date20230810
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223022286/0001127602-23-022286-index-headers.html
+file_type: 4
+
+string sequence: 000112760223022157
+filing date20230807
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223022157/0001127602-23-022157-index-headers.html
+file_type: 4
+
+string sequence: 000112760223021938
+filing date20230803
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223021938/0001127602-23-021938-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337923000015
+filing date20230803
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337923000015/0000103379-23-000015-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752323001206
+filing date20230801
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752323001206/0001157523-23-001206-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312523196113
+filing date20230727
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523196113/0001193125-23-196113-index-headers.html
+file_type: 3
+
+string sequence: 000112760223021243
+filing date20230725
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223021243/0001127602-23-021243-index-headers.html
+file_type: 4
+
+string sequence: 000112760223020963
+filing date20230718
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223020963/0001127602-23-020963-index-headers.html
+file_type: 4
+
+string sequence: 000112760223020133
+filing date20230705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223020133/0001127602-23-020133-index-headers.html
+file_type: 4
+
+string sequence: 000112760223020122
+filing date20230705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223020122/0001127602-23-020122-index-headers.html
+file_type: 4
+
+string sequence: 000112760223020111
+filing date20230705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223020111/0001127602-23-020111-index-headers.html
+file_type: 4
+
+string sequence: 000112760223020096
+filing date20230705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223020096/0001127602-23-020096-index-headers.html
+file_type: 4
+
+string sequence: 000112760223020088
+filing date20230705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223020088/0001127602-23-020088-index-headers.html
+file_type: 4
+
+string sequence: 000112760223020074
+filing date20230705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223020074/0001127602-23-020074-index-headers.html
+file_type: 11-K
+
+string sequence: 000010337923000009
+filing date20230628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337923000009/0000103379-23-000009-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312523169577
+filing date20230620
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523169577/0001193125-23-169577-index-headers.html
+file_type: ARS
+
+string sequence: 000119312523164888
+filing date20230612
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523164888/0001193125-23-164888-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312523164887
+filing date20230612
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523164887/0001193125-23-164887-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312523164886
+filing date20230612
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523164886/0001193125-23-164886-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017771
+filing date20230605
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017771/0001127602-23-017771-index-headers.html
+file_type: SD
+
+string sequence: 000119312523157708
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523157708/0001193125-23-157708-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017184
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017184/0001127602-23-017184-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017174
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017174/0001127602-23-017174-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017167
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017167/0001127602-23-017167-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017158
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017158/0001127602-23-017158-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017155
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017155/0001127602-23-017155-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017151
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017151/0001127602-23-017151-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017147
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017147/0001127602-23-017147-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017144
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017144/0001127602-23-017144-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017141
+filing date20230531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017141/0001127602-23-017141-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017068
+filing date20230530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017068/0001127602-23-017068-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017063
+filing date20230530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017063/0001127602-23-017063-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017059
+filing date20230530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017059/0001127602-23-017059-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017057
+filing date20230530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017057/0001127602-23-017057-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017055
+filing date20230530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017055/0001127602-23-017055-index-headers.html
+file_type: 4
+
+string sequence: 000112760223017051
+filing date20230530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223017051/0001127602-23-017051-index-headers.html
+file_type: 4
+
+string sequence: 000112760223016912
+filing date20230526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223016912/0001127602-23-016912-index-headers.html
+file_type: 10-K
+
+string sequence: 000010337923000006
+filing date20230525
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337923000006/0000103379-23-000006-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752323000902
+filing date20230523
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752323000902/0001157523-23-000902-index-headers.html
+file_type: 4
+
+string sequence: 000112760223015923
+filing date20230517
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223015923/0001127602-23-015923-index-headers.html
+file_type: 4
+
+string sequence: 000112760223015917
+filing date20230517
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223015917/0001127602-23-015917-index-headers.html
+file_type: 4
+
+string sequence: 000112760223015906
+filing date20230517
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223015906/0001127602-23-015906-index-headers.html
+file_type: 4
+
+string sequence: 000112760223015888
+filing date20230517
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223015888/0001127602-23-015888-index-headers.html
+file_type: 4
+
+string sequence: 000112760223015879
+filing date20230517
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223015879/0001127602-23-015879-index-headers.html
+file_type: 4
+
+string sequence: 000112760223012325
+filing date20230404
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223012325/0001127602-23-012325-index-headers.html
+file_type: 4
+
+string sequence: 000112760223012319
+filing date20230404
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223012319/0001127602-23-012319-index-headers.html
+file_type: 4
+
+string sequence: 000112760223012312
+filing date20230404
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223012312/0001127602-23-012312-index-headers.html
+file_type: 4
+
+string sequence: 000112760223012305
+filing date20230404
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223012305/0001127602-23-012305-index-headers.html
+file_type: 4
+
+string sequence: 000112760223012295
+filing date20230404
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223012295/0001127602-23-012295-index-headers.html
+file_type: 4
+
+string sequence: 000112760223012285
+filing date20230404
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223012285/0001127602-23-012285-index-headers.html
+file_type: 4
+
+string sequence: 000112760223010486
+filing date20230317
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223010486/0001127602-23-010486-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000009375123000542
+filing date20230310
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000009375123000542/0000093751-23-000542-index-headers.html
+file_type: CERT
+
+string sequence: 000087666123000178
+filing date20230307
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000087666123000178/0000876661-23-000178-index-headers.html
+file_type: 4
+
+string sequence: 000112760223009305
+filing date20230307
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223009305/0001127602-23-009305-index-headers.html
+file_type: 3/A
+
+string sequence: 000112760223009304
+filing date20230307
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223009304/0001127602-23-009304-index-headers.html
+file_type: 8-A12B
+
+string sequence: 000119312523063015
+filing date20230307
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523063015/0001193125-23-063015-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312523062135
+filing date20230307
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523062135/0001193125-23-062135-index-headers.html
+file_type: 424B5
+
+string sequence: 000119312523050787
+filing date20230227
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523050787/0001193125-23-050787-index-headers.html
+file_type: FWP
+
+string sequence: 000119312523046541
+filing date20230223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523046541/0001193125-23-046541-index-headers.html
+file_type: 424B3
+
+string sequence: 000119312523042774
+filing date20230221
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523042774/0001193125-23-042774-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312523041127
+filing date20230216
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523041127/0001193125-23-041127-index-headers.html
+file_type: 4
+
+string sequence: 000112760223005312
+filing date20230215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223005312/0001127602-23-005312-index-headers.html
+file_type: 4
+
+string sequence: 000112760223005140
+filing date20230214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223005140/0001127602-23-005140-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000156223023000102
+filing date20230213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000156223023000102/0001562230-23-000102-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000125648423000012
+filing date20230213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000125648423000012/0001256484-23-000012-index-headers.html
+file_type: 4
+
+string sequence: 000112760223004831
+filing date20230213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760223004831/0001127602-23-004831-index-headers.html
+file_type: SC 13G
+
+string sequence: 000009375123000461
+filing date20230210
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000009375123000461/0000093751-23-000461-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312523031832
+filing date20230210
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523031832/0001193125-23-031832-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000110465923017242
+filing date20230209
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000110465923017242/0001104659-23-017242-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337923000003
+filing date20230208
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337923000003/0000103379-23-000003-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752323000196
+filing date20230207
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752323000196/0001157523-23-000196-index-headers.html
+file_type: SC 13G
+
+string sequence: 000009375123000097
+filing date20230202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000009375123000097/0000093751-23-000097-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000130655023005894
+filing date20230201
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000130655023005894/0001306550-23-005894-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312523015237
+filing date20230125
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312523015237/0001193125-23-015237-index-headers.html
+file_type: 4
+
+string sequence: 000112760222027517
+filing date20221215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222027517/0001127602-22-027517-index-headers.html
+file_type: 4
+
+string sequence: 000112760222027444
+filing date20221214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222027444/0001127602-22-027444-index-headers.html
+file_type: 4
+
+string sequence: 000112760222027363
+filing date20221213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222027363/0001127602-22-027363-index-headers.html
+file_type: 4
+
+string sequence: 000112760222027064
+filing date20221208
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222027064/0001127602-22-027064-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312522298025
+filing date20221205
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522298025/0001193125-22-298025-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337922000016
+filing date20221102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337922000016/0000103379-22-000016-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752322001399
+filing date20221026
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752322001399/0001157523-22-001399-index-headers.html
+file_type: 3
+
+string sequence: 000112760222024373
+filing date20221025
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222024373/0001127602-22-024373-index-headers.html
+file_type: 3
+
+string sequence: 000112760222024367
+filing date20221025
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222024367/0001127602-22-024367-index-headers.html
+file_type: 4
+
+string sequence: 000112760222023362
+filing date20221004
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222023362/0001127602-22-023362-index-headers.html
+file_type: 4
+
+string sequence: 000112760222023359
+filing date20221004
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222023359/0001127602-22-023359-index-headers.html
+file_type: 4
+
+string sequence: 000112760222023355
+filing date20221004
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222023355/0001127602-22-023355-index-headers.html
+file_type: 4
+
+string sequence: 000112760222023353
+filing date20221004
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222023353/0001127602-22-023353-index-headers.html
+file_type: 4
+
+string sequence: 000112760222023351
+filing date20221004
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222023351/0001127602-22-023351-index-headers.html
+file_type: 4
+
+string sequence: 000112760222023347
+filing date20221004
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222023347/0001127602-22-023347-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312522252793
+filing date20220928
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522252793/0001193125-22-252793-index-headers.html
+file_type: 4
+
+string sequence: 000112760222021749
+filing date20220830
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222021749/0001127602-22-021749-index-headers.html
+file_type: 8-K
+
+string sequence: 000095010322013932
+filing date20220811
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010322013932/0000950103-22-013932-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337922000013
+filing date20220805
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337922000013/0000103379-22-000013-index-headers.html
+file_type: 4
+
+string sequence: 000112760222020477
+filing date20220804
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222020477/0001127602-22-020477-index-headers.html
+file_type: 4
+
+string sequence: 000112760222020358
+filing date20220803
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222020358/0001127602-22-020358-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752322000950
+filing date20220728
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752322000950/0001157523-22-000950-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312522204121
+filing date20220728
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522204121/0001193125-22-204121-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312522194095
+filing date20220715
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522194095/0001193125-22-194095-index-headers.html
+file_type: 4
+
+string sequence: 000112760222018939
+filing date20220706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222018939/0001127602-22-018939-index-headers.html
+file_type: 4
+
+string sequence: 000112760222018937
+filing date20220706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222018937/0001127602-22-018937-index-headers.html
+file_type: 4
+
+string sequence: 000112760222018934
+filing date20220706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222018934/0001127602-22-018934-index-headers.html
+file_type: 4
+
+string sequence: 000112760222018929
+filing date20220706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222018929/0001127602-22-018929-index-headers.html
+file_type: 4
+
+string sequence: 000112760222018927
+filing date20220706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222018927/0001127602-22-018927-index-headers.html
+file_type: 11-K
+
+string sequence: 000010337922000009
+filing date20220627
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337922000009/0000103379-22-000009-index-headers.html
+file_type: 4
+
+string sequence: 000112760222017535
+filing date20220615
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222017535/0001127602-22-017535-index-headers.html
+file_type: 3
+
+string sequence: 000112760222017534
+filing date20220615
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222017534/0001127602-22-017534-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312522172408
+filing date20220613
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522172408/0001193125-22-172408-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312522172405
+filing date20220613
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522172405/0001193125-22-172405-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312522171463
+filing date20220610
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522171463/0001193125-22-171463-index-headers.html
+file_type: 4
+
+string sequence: 000112760222016012
+filing date20220531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222016012/0001127602-22-016012-index-headers.html
+file_type: 4
+
+string sequence: 000112760222016011
+filing date20220531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222016011/0001127602-22-016011-index-headers.html
+file_type: 4
+
+string sequence: 000112760222016008
+filing date20220531
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222016008/0001127602-22-016008-index-headers.html
+file_type: 10-K
+
+string sequence: 000010337922000006
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337922000006/0000103379-22-000006-index-headers.html
+file_type: SD
+
+string sequence: 000119312522161049
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522161049/0001193125-22-161049-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015755
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015755/0001127602-22-015755-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015754
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015754/0001127602-22-015754-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015753
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015753/0001127602-22-015753-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015751
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015751/0001127602-22-015751-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015750
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015750/0001127602-22-015750-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015749
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015749/0001127602-22-015749-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015748
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015748/0001127602-22-015748-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015747
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015747/0001127602-22-015747-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015746
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015746/0001127602-22-015746-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015745
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015745/0001127602-22-015745-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015744
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015744/0001127602-22-015744-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015743
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015743/0001127602-22-015743-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015742
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015742/0001127602-22-015742-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015740
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015740/0001127602-22-015740-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015739
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015739/0001127602-22-015739-index-headers.html
+file_type: 4
+
+string sequence: 000112760222015738
+filing date20220526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222015738/0001127602-22-015738-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752322000668
+filing date20220519
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752322000668/0001157523-22-000668-index-headers.html
+file_type: 4
+
+string sequence: 000112760222014963
+filing date20220518
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222014963/0001127602-22-014963-index-headers.html
+file_type: 4
+
+string sequence: 000112760222014957
+filing date20220518
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222014957/0001127602-22-014957-index-headers.html
+file_type: 4
+
+string sequence: 000112760222014945
+filing date20220518
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222014945/0001127602-22-014945-index-headers.html
+file_type: 4
+
+string sequence: 000112760222014949
+filing date20220518
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222014949/0001127602-22-014949-index-headers.html
+file_type: 4
+
+string sequence: 000112760222014940
+filing date20220518
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222014940/0001127602-22-014940-index-headers.html
+file_type: 4
+
+string sequence: 000112760222014938
+filing date20220518
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222014938/0001127602-22-014938-index-headers.html
+file_type: 4
+
+string sequence: 000112760222014933
+filing date20220518
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222014933/0001127602-22-014933-index-headers.html
+file_type: 3
+
+string sequence: 000112760222013845
+filing date20220509
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222013845/0001127602-22-013845-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000110465922044260
+filing date20220408
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000110465922044260/0001104659-22-044260-index-headers.html
+file_type: 4
+
+string sequence: 000112760222011677
+filing date20220406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222011677/0001127602-22-011677-index-headers.html
+file_type: 4
+
+string sequence: 000112760222011676
+filing date20220406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222011676/0001127602-22-011676-index-headers.html
+file_type: 4
+
+string sequence: 000112760222011675
+filing date20220406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222011675/0001127602-22-011675-index-headers.html
+file_type: 4
+
+string sequence: 000112760222011674
+filing date20220406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222011674/0001127602-22-011674-index-headers.html
+file_type: 4
+
+string sequence: 000112760222011673
+filing date20220406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222011673/0001127602-22-011673-index-headers.html
+file_type: 4
+
+string sequence: 000112760222009479
+filing date20220316
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222009479/0001127602-22-009479-index-headers.html
+file_type: 4
+
+string sequence: 000112760222008263
+filing date20220304
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222008263/0001127602-22-008263-index-headers.html
+file_type: 4
+
+string sequence: 000112760222006292
+filing date20220223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222006292/0001127602-22-006292-index-headers.html
+file_type: 4
+
+string sequence: 000112760222006281
+filing date20220223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222006281/0001127602-22-006281-index-headers.html
+file_type: 4
+
+string sequence: 000112760222006276
+filing date20220223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222006276/0001127602-22-006276-index-headers.html
+file_type: 4
+
+string sequence: 000112760222006272
+filing date20220223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222006272/0001127602-22-006272-index-headers.html
+file_type: 4
+
+string sequence: 000112760222006268
+filing date20220223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222006268/0001127602-22-006268-index-headers.html
+file_type: 4
+
+string sequence: 000112760222006265
+filing date20220223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222006265/0001127602-22-006265-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000090044022000010
+filing date20220214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000090044022000010/0000900440-22-000010-index-headers.html
+file_type: SC 13G
+
+string sequence: 000156223022000095
+filing date20220211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000156223022000095/0001562230-22-000095-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312522035775
+filing date20220211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312522035775/0001193125-22-035775-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000110465922018844
+filing date20220210
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000110465922018844/0001104659-22-018844-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000125648422000009
+filing date20220208
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000125648422000009/0001256484-22-000009-index-headers.html
+file_type: 4
+
+string sequence: 000112760222003405
+filing date20220204
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222003405/0001127602-22-003405-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000083423722003993
+filing date20220201
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000083423722003993/0000834237-22-003993-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337922000003
+filing date20220128
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337922000003/0000103379-22-000003-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752322000111
+filing date20220128
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752322000111/0001157523-22-000111-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752322000046
+filing date20220111
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752322000046/0001157523-22-000046-index-headers.html
+file_type: 4
+
+string sequence: 000112760222000522
+filing date20220104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222000522/0001127602-22-000522-index-headers.html
+file_type: 4
+
+string sequence: 000112760222000514
+filing date20220104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222000514/0001127602-22-000514-index-headers.html
+file_type: 4
+
+string sequence: 000112760222000511
+filing date20220104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222000511/0001127602-22-000511-index-headers.html
+file_type: 4
+
+string sequence: 000112760222000507
+filing date20220104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222000507/0001127602-22-000507-index-headers.html
+file_type: 4
+
+string sequence: 000112760222000493
+filing date20220104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222000493/0001127602-22-000493-index-headers.html
+file_type: 4
+
+string sequence: 000112760222000487
+filing date20220104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222000487/0001127602-22-000487-index-headers.html
+file_type: 4
+
+string sequence: 000112760222000483
+filing date20220104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760222000483/0001127602-22-000483-index-headers.html
+file_type: 4
+
+string sequence: 000112760221030722
+filing date20211210
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221030722/0001127602-21-030722-index-headers.html
+file_type: 8-K
+
+string sequence: 000095010321018482
+filing date20211124
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010321018482/0000950103-21-018482-index-headers.html
+file_type: 8-K
+
+string sequence: 000095010321017425
+filing date20211105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010321017425/0000950103-21-017425-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337921000017
+filing date20211103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337921000017/0000103379-21-000017-index-headers.html
+file_type: 4
+
+string sequence: 000112760221027832
+filing date20211029
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221027832/0001127602-21-027832-index-headers.html
+file_type: 4
+
+string sequence: 000112760221027597
+filing date20211025
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221027597/0001127602-21-027597-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752321001236
+filing date20211022
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752321001236/0001157523-21-001236-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312521302520
+filing date20211020
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521302520/0001193125-21-302520-index-headers.html
+file_type: 4
+
+string sequence: 000112760221026638
+filing date20211005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221026638/0001127602-21-026638-index-headers.html
+file_type: 4
+
+string sequence: 000112760221026636
+filing date20211005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221026636/0001127602-21-026636-index-headers.html
+file_type: 4
+
+string sequence: 000112760221026635
+filing date20211005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221026635/0001127602-21-026635-index-headers.html
+file_type: 4
+
+string sequence: 000112760221026634
+filing date20211005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221026634/0001127602-21-026634-index-headers.html
+file_type: 4
+
+string sequence: 000112760221026633
+filing date20211005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221026633/0001127602-21-026633-index-headers.html
+file_type: 4
+
+string sequence: 000112760221026632
+filing date20211005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221026632/0001127602-21-026632-index-headers.html
+file_type: 4
+
+string sequence: 000112760221026631
+filing date20211005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221026631/0001127602-21-026631-index-headers.html
+file_type: 4
+
+string sequence: 000112760221025060
+filing date20210909
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221025060/0001127602-21-025060-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752321001125
+filing date20210907
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752321001125/0001157523-21-001125-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337921000014
+filing date20210806
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337921000014/0000103379-21-000014-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752321000954
+filing date20210730
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752321000954/0001157523-21-000954-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312521226715
+filing date20210728
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521226715/0001193125-21-226715-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021664
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021664/0001127602-21-021664-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021663
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021663/0001127602-21-021663-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021661
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021661/0001127602-21-021661-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021655
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021655/0001127602-21-021655-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021654
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021654/0001127602-21-021654-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021653
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021653/0001127602-21-021653-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021652
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021652/0001127602-21-021652-index-headers.html
+file_type: 4
+
+string sequence: 000112760221021651
+filing date20210707
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221021651/0001127602-21-021651-index-headers.html
+file_type: 11-K
+
+string sequence: 000010337921000010
+filing date20210624
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337921000010/0000103379-21-000010-index-headers.html
+file_type: 4
+
+string sequence: 000112760221020058
+filing date20210616
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221020058/0001127602-21-020058-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312521188247
+filing date20210611
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521188247/0001193125-21-188247-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312521188246
+filing date20210611
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521188246/0001193125-21-188246-index-headers.html
+file_type: 3
+
+string sequence: 000112760221019338
+filing date20210607
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221019338/0001127602-21-019338-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018941
+filing date20210603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018941/0001127602-21-018941-index-headers.html
+file_type: 10-K
+
+string sequence: 000010337921000006
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337921000006/0000103379-21-000006-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018151
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018151/0001127602-21-018151-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018150
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018150/0001127602-21-018150-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018148
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018148/0001127602-21-018148-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018147
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018147/0001127602-21-018147-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018146
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018146/0001127602-21-018146-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018145
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018145/0001127602-21-018145-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018144
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018144/0001127602-21-018144-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018143
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018143/0001127602-21-018143-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018142
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018142/0001127602-21-018142-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018141
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018141/0001127602-21-018141-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018140
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018140/0001127602-21-018140-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018139
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018139/0001127602-21-018139-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018138
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018138/0001127602-21-018138-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018137
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018137/0001127602-21-018137-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018136
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018136/0001127602-21-018136-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018135
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018135/0001127602-21-018135-index-headers.html
+file_type: 4
+
+string sequence: 000112760221018134
+filing date20210527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221018134/0001127602-21-018134-index-headers.html
+file_type: SD
+
+string sequence: 000119312521172467
+filing date20210525
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521172467/0001193125-21-172467-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752321000698
+filing date20210521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752321000698/0001157523-21-000698-index-headers.html
+file_type: 4
+
+string sequence: 000112760221017358
+filing date20210519
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221017358/0001127602-21-017358-index-headers.html
+file_type: 4
+
+string sequence: 000112760221017357
+filing date20210519
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221017357/0001127602-21-017357-index-headers.html
+file_type: 4
+
+string sequence: 000112760221017356
+filing date20210519
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221017356/0001127602-21-017356-index-headers.html
+file_type: 4
+
+string sequence: 000112760221017354
+filing date20210519
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221017354/0001127602-21-017354-index-headers.html
+file_type: 4
+
+string sequence: 000112760221017353
+filing date20210519
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221017353/0001127602-21-017353-index-headers.html
+file_type: 4
+
+string sequence: 000112760221017352
+filing date20210519
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221017352/0001127602-21-017352-index-headers.html
+file_type: 5
+
+string sequence: 000112760221014546
+filing date20210428
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221014546/0001127602-21-014546-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752321000492
+filing date20210422
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752321000492/0001157523-21-000492-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013375
+filing date20210407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013375/0001127602-21-013375-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013374
+filing date20210407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013374/0001127602-21-013374-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013371
+filing date20210407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013371/0001127602-21-013371-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013370
+filing date20210407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013370/0001127602-21-013370-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013369
+filing date20210407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013369/0001127602-21-013369-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013366
+filing date20210407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013366/0001127602-21-013366-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013365
+filing date20210407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013365/0001127602-21-013365-index-headers.html
+file_type: 4
+
+string sequence: 000112760221013343
+filing date20210406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221013343/0001127602-21-013343-index-headers.html
+file_type: UPLOAD
+
+string sequence: 000000000021002978
+filing date20210312
+<FILED-FOR>
+<COMPANY-DATA>
+<CONFORMED-NAME>V F CORP
+<CIK>0000103379
+<ASSIGNED-SIC>2320
+<IRS-NUMBER>231180120
+<STATE-OF-INCORPORATION>PA
+<FISCAL-YEAR-END>0403
+</COMPANY-DATA>
+<FILING-VALUES>
+<FORM-TYPE>UPLOAD
+</FILING-VALUES>
+<BUSINESS-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+<PHONE>(720) 778-4000
+</BUSINESS-ADDRESS>
+<MAIL-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+</MAIL-ADDRESS>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VF CORPORATION
+<DATE-CHANGED>19900621
+</FORMER-COMPANY>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VANITY FAIR MILLS INC
+<DATE-CHANGED>19690520
+</FORMER-COMPANY>
+</FILED-FOR>
+</SEC-HEADER>
+url: https://www.sec.gov/Archives/edgar/data/103379/000000000021002978/0000000000-21-002978-index-headers.html
+file_type: S-3ASR
+
+string sequence: 000119312521076342
+filing date20210310
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521076342/0001193125-21-076342-index-headers.html
+file_type: CORRESP
+
+string sequence: 000119312521071418
+filing date20210305
+<FILER>
+<COMPANY-DATA>
+<CONFORMED-NAME>V F CORP
+<CIK>0000103379
+<ASSIGNED-SIC>2320
+<IRS-NUMBER>231180120
+<STATE-OF-INCORPORATION>PA
+<FISCAL-YEAR-END>0403
+</COMPANY-DATA>
+<FILING-VALUES>
+<FORM-TYPE>CORRESP
+</FILING-VALUES>
+<BUSINESS-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+<PHONE>(720) 778-4000
+</BUSINESS-ADDRESS>
+<MAIL-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+</MAIL-ADDRESS>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VF CORPORATION
+<DATE-CHANGED>19900621
+</FORMER-COMPANY>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VANITY FAIR MILLS INC
+<DATE-CHANGED>19690520
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521071418/0001193125-21-071418-index-headers.html
+file_type: 4
+
+string sequence: 000112760221007897
+filing date20210225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221007897/0001127602-21-007897-index-headers.html
+file_type: 4
+
+string sequence: 000112760221007663
+filing date20210224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221007663/0001127602-21-007663-index-headers.html
+file_type: 4
+
+string sequence: 000112760221007657
+filing date20210224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760221007657/0001127602-21-007657-index-headers.html
+file_type: UPLOAD
+
+string sequence: 000000000021002123
+filing date20210222
+<FILED-FOR>
+<COMPANY-DATA>
+<CONFORMED-NAME>V F CORP
+<CIK>0000103379
+<ASSIGNED-SIC>2320
+<IRS-NUMBER>231180120
+<STATE-OF-INCORPORATION>PA
+<FISCAL-YEAR-END>0403
+</COMPANY-DATA>
+<FILING-VALUES>
+<FORM-TYPE>UPLOAD
+</FILING-VALUES>
+<BUSINESS-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+<PHONE>(720) 778-4000
+</BUSINESS-ADDRESS>
+<MAIL-ADDRESS>
+<STREET1>1551 WEWATTA STREET
+<CITY>DENVER
+<STATE>CO
+<ZIP>80202
+</MAIL-ADDRESS>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VF CORPORATION
+<DATE-CHANGED>19900621
+</FORMER-COMPANY>
+<FORMER-COMPANY>
+<FORMER-CONFORMED-NAME>VANITY FAIR MILLS INC
+<DATE-CHANGED>19690520
+</FORMER-COMPANY>
+</FILED-FOR>
+</SEC-HEADER>
+url: https://www.sec.gov/Archives/edgar/data/103379/000000000021002123/0000000000-21-002123-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000090044021000018
+filing date20210216
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000090044021000018/0000900440-21-000018-index-headers.html
+file_type: SC 13G
+
+string sequence: 000125648421000012
+filing date20210212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000125648421000012/0001256484-21-000012-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312521040247
+filing date20210212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312521040247/0001193125-21-040247-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000110465921019365
+filing date20210210
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000110465921019365/0001104659-21-019365-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337921000003
+filing date20210202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337921000003/0000103379-21-000003-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000083423721005516
+filing date20210201
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000083423721005516/0000834237-21-005516-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752321000086
+filing date20210127
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752321000086/0001157523-21-000086-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032386
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032386/0001127602-20-032386-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032383
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032383/0001127602-20-032383-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032382
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032382/0001127602-20-032382-index-headers.html
+file_type: 8-K
+
+string sequence: 000095010320024821
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010320024821/0000950103-20-024821-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032380
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032380/0001127602-20-032380-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032378
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032378/0001127602-20-032378-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032376
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032376/0001127602-20-032376-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032375
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032375/0001127602-20-032375-index-headers.html
+file_type: 4
+
+string sequence: 000112760220032374
+filing date20201228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220032374/0001127602-20-032374-index-headers.html
+file_type: 4
+
+string sequence: 000112760220029894
+filing date20201124
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220029894/0001127602-20-029894-index-headers.html
+file_type: 4
+
+string sequence: 000112760220029693
+filing date20201120
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220029693/0001127602-20-029693-index-headers.html
+file_type: 4
+
+string sequence: 000112760220029690
+filing date20201120
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220029690/0001127602-20-029690-index-headers.html
+file_type: 4
+
+string sequence: 000112760220029251
+filing date20201117
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220029251/0001127602-20-029251-index-headers.html
+file_type: 4
+
+string sequence: 000112760220028818
+filing date20201112
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220028818/0001127602-20-028818-index-headers.html
+file_type: 4
+
+string sequence: 000112760220028682
+filing date20201112
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220028682/0001127602-20-028682-index-headers.html
+file_type: 8-K
+
+string sequence: 000095010320021761
+filing date20201109
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010320021761/0000950103-20-021761-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337920000018
+filing date20201028
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337920000018/0000103379-20-000018-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320001313
+filing date20201016
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320001313/0001157523-20-001313-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025855
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025855/0001127602-20-025855-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025854
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025854/0001127602-20-025854-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025851
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025851/0001127602-20-025851-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025850
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025850/0001127602-20-025850-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025849
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025849/0001127602-20-025849-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025847
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025847/0001127602-20-025847-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025846
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025846/0001127602-20-025846-index-headers.html
+file_type: 4
+
+string sequence: 000112760220025844
+filing date20200929
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220025844/0001127602-20-025844-index-headers.html
+file_type: 4
+
+string sequence: 000112760220024705
+filing date20200903
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220024705/0001127602-20-024705-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760220024041
+filing date20200821
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220024041/0001127602-20-024041-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337920000013
+filing date20200804
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337920000013/0000103379-20-000013-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320001090
+filing date20200731
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320001090/0001157523-20-001090-index-headers.html
+file_type: 4
+
+string sequence: 000112760220022209
+filing date20200728
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220022209/0001127602-20-022209-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312520201127
+filing date20200728
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520201127/0001193125-20-201127-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312520183237
+filing date20200630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520183237/0001193125-20-183237-index-headers.html
+file_type: 11-K
+
+string sequence: 000010337920000010
+filing date20200624
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337920000010/0000103379-20-000010-index-headers.html
+file_type: 4
+
+string sequence: 000112760220019569
+filing date20200615
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220019569/0001127602-20-019569-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312520167141
+filing date20200612
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520167141/0001193125-20-167141-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312520167140
+filing date20200612
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520167140/0001193125-20-167140-index-headers.html
+file_type: 4
+
+string sequence: 000112760220019147
+filing date20200608
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220019147/0001127602-20-019147-index-headers.html
+file_type: 4
+
+string sequence: 000112760220018835
+filing date20200604
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220018835/0001127602-20-018835-index-headers.html
+file_type: SD
+
+string sequence: 000119312520152927
+filing date20200527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520152927/0001193125-20-152927-index-headers.html
+file_type: 10-K
+
+string sequence: 000010337920000006
+filing date20200527
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337920000006/0000103379-20-000006-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017618
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017618/0001127602-20-017618-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017617
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017617/0001127602-20-017617-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017616
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017616/0001127602-20-017616-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017615
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017615/0001127602-20-017615-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017614
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017614/0001127602-20-017614-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017613
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017613/0001127602-20-017613-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017612
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017612/0001127602-20-017612-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017611
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017611/0001127602-20-017611-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017602
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017602/0001127602-20-017602-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017601
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017601/0001127602-20-017601-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017600
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017600/0001127602-20-017600-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017598
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017598/0001127602-20-017598-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017597
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017597/0001127602-20-017597-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017595
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017595/0001127602-20-017595-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017594
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017594/0001127602-20-017594-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017593
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017593/0001127602-20-017593-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017592
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017592/0001127602-20-017592-index-headers.html
+file_type: 4
+
+string sequence: 000112760220017589
+filing date20200521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220017589/0001127602-20-017589-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320000753
+filing date20200515
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320000753/0001157523-20-000753-index-headers.html
+file_type: 4
+
+string sequence: 000112760220016481
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220016481/0001127602-20-016481-index-headers.html
+file_type: 4
+
+string sequence: 000112760220016479
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220016479/0001127602-20-016479-index-headers.html
+file_type: 4
+
+string sequence: 000112760220016476
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220016476/0001127602-20-016476-index-headers.html
+file_type: 4
+
+string sequence: 000112760220016474
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220016474/0001127602-20-016474-index-headers.html
+file_type: 4
+
+string sequence: 000112760220016471
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220016471/0001127602-20-016471-index-headers.html
+file_type: 4
+
+string sequence: 000112760220016468
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220016468/0001127602-20-016468-index-headers.html
+file_type: 4
+
+string sequence: 000112760220016464
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220016464/0001127602-20-016464-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312520140983
+filing date20200513
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520140983/0001193125-20-140983-index-headers.html
+file_type: 5
+
+string sequence: 000112760220015948
+filing date20200508
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220015948/0001127602-20-015948-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312520136918
+filing date20200508
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520136918/0001193125-20-136918-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312520117286
+filing date20200423
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520117286/0001193125-20-117286-index-headers.html
+file_type: 424B2
+
+string sequence: 000119312520115179
+filing date20200422
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520115179/0001193125-20-115179-index-headers.html
+file_type: FWP
+
+string sequence: 000119312520113730
+filing date20200421
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520113730/0001193125-20-113730-index-headers.html
+file_type: 424B3
+
+string sequence: 000119312520112987
+filing date20200421
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520112987/0001193125-20-112987-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312520112886
+filing date20200421
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520112886/0001193125-20-112886-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320000477
+filing date20200407
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320000477/0001157523-20-000477-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012594
+filing date20200402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012594/0001127602-20-012594-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012255
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012255/0001127602-20-012255-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012251
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012251/0001127602-20-012251-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012247
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012247/0001127602-20-012247-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012244
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012244/0001127602-20-012244-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012240
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012240/0001127602-20-012240-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012236
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012236/0001127602-20-012236-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012233
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012233/0001127602-20-012233-index-headers.html
+file_type: 4
+
+string sequence: 000112760220012231
+filing date20200331
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220012231/0001127602-20-012231-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320000403
+filing date20200323
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320000403/0001157523-20-000403-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320000349
+filing date20200316
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320000349/0001157523-20-000349-index-headers.html
+file_type: CERT
+
+string sequence: 000087666120000181
+filing date20200306
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000087666120000181/0000876661-20-000181-index-headers.html
+file_type: 8-A12B
+
+string sequence: 000119312520063841
+filing date20200306
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520063841/0001193125-20-063841-index-headers.html
+file_type: 4
+
+string sequence: 000112760220008560
+filing date20200302
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220008560/0001127602-20-008560-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312520047167
+filing date20200225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520047167/0001193125-20-047167-index-headers.html
+file_type: 4
+
+string sequence: 000112760220007307
+filing date20200224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220007307/0001127602-20-007307-index-headers.html
+file_type: 4
+
+string sequence: 000112760220007302
+filing date20200224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220007302/0001127602-20-007302-index-headers.html
+file_type: 4
+
+string sequence: 000112760220007294
+filing date20200224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220007294/0001127602-20-007294-index-headers.html
+file_type: 4
+
+string sequence: 000112760220007288
+filing date20200224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220007288/0001127602-20-007288-index-headers.html
+file_type: 4
+
+string sequence: 000112760220007275
+filing date20200224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220007275/0001127602-20-007275-index-headers.html
+file_type: 4
+
+string sequence: 000112760220007261
+filing date20200224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220007261/0001127602-20-007261-index-headers.html
+file_type: 4
+
+string sequence: 000112760220007250
+filing date20200224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760220007250/0001127602-20-007250-index-headers.html
+file_type: 424B5
+
+string sequence: 000119312520043556
+filing date20200220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520043556/0001193125-20-043556-index-headers.html
+file_type: FWP
+
+string sequence: 000119312520040332
+filing date20200218
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520040332/0001193125-20-040332-index-headers.html
+file_type: 424B3
+
+string sequence: 000119312520038629
+filing date20200214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520038629/0001193125-20-038629-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000110465920018525
+filing date20200212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000110465920018525/0001104659-20-018525-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312520027718
+filing date20200207
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520027718/0001193125-20-027718-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312520027704
+filing date20200207
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520027704/0001193125-20-027704-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312520027682
+filing date20200207
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520027682/0001193125-20-027682-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320000168
+filing date20200207
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320000168/0001157523-20-000168-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000083423720006775
+filing date20200206
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000083423720006775/0000834237-20-006775-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337920000003
+filing date20200204
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337920000003/0000103379-20-000003-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312520022941
+filing date20200203
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312520022941/0001193125-20-022941-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000090044020000021
+filing date20200127
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000090044020000021/0000900440-20-000021-index-headers.html
+file_type: SC 13G
+
+string sequence: 000090044020000017
+filing date20200127
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000090044020000017/0000900440-20-000017-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752320000093
+filing date20200123
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752320000093/0001157523-20-000093-index-headers.html
+file_type: 4
+
+string sequence: 000112760219035943
+filing date20191230
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219035943/0001127602-19-035943-index-headers.html
+file_type: 4
+
+string sequence: 000112760219035941
+filing date20191230
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219035941/0001127602-19-035941-index-headers.html
+file_type: 4
+
+string sequence: 000112760219035939
+filing date20191230
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219035939/0001127602-19-035939-index-headers.html
+file_type: 4
+
+string sequence: 000112760219035937
+filing date20191230
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219035937/0001127602-19-035937-index-headers.html
+file_type: 4
+
+string sequence: 000112760219035935
+filing date20191230
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219035935/0001127602-19-035935-index-headers.html
+file_type: 4
+
+string sequence: 000112760219035933
+filing date20191230
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219035933/0001127602-19-035933-index-headers.html
+file_type: 4
+
+string sequence: 000112760219035931
+filing date20191230
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219035931/0001127602-19-035931-index-headers.html
+file_type: 4
+
+string sequence: 000112760219034881
+filing date20191212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219034881/0001127602-19-034881-index-headers.html
+file_type: 4
+
+string sequence: 000112760219034879
+filing date20191212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219034879/0001127602-19-034879-index-headers.html
+file_type: 4
+
+string sequence: 000112760219031682
+filing date20191104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219031682/0001127602-19-031682-index-headers.html
+file_type: 4
+
+string sequence: 000112760219031348
+filing date20191031
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219031348/0001127602-19-031348-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337919000014
+filing date20191031
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337919000014/0000103379-19-000014-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752319002105
+filing date20191025
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752319002105/0001157523-19-002105-index-headers.html
+file_type: 3
+
+string sequence: 000112760219030719
+filing date20191017
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219030719/0001127602-19-030719-index-headers.html
+file_type: 4
+
+string sequence: 000112760219029441
+filing date20191001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219029441/0001127602-19-029441-index-headers.html
+file_type: 4
+
+string sequence: 000112760219029438
+filing date20191001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219029438/0001127602-19-029438-index-headers.html
+file_type: 4
+
+string sequence: 000112760219029434
+filing date20191001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219029434/0001127602-19-029434-index-headers.html
+file_type: 4
+
+string sequence: 000112760219029429
+filing date20191001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219029429/0001127602-19-029429-index-headers.html
+file_type: 4
+
+string sequence: 000112760219029424
+filing date20191001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219029424/0001127602-19-029424-index-headers.html
+file_type: 4
+
+string sequence: 000112760219029420
+filing date20191001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219029420/0001127602-19-029420-index-headers.html
+file_type: 4
+
+string sequence: 000112760219029417
+filing date20191001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219029417/0001127602-19-029417-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752319002003
+filing date20190925
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752319002003/0001157523-19-002003-index-headers.html
+file_type: 4
+
+string sequence: 000112760219028460
+filing date20190916
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219028460/0001127602-19-028460-index-headers.html
+file_type: 4
+
+string sequence: 000112760219027780
+filing date20190903
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219027780/0001127602-19-027780-index-headers.html
+file_type: 4
+
+string sequence: 000112760219027652
+filing date20190830
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219027652/0001127602-19-027652-index-headers.html
+file_type: 4
+
+string sequence: 000112760219027397
+filing date20190826
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219027397/0001127602-19-027397-index-headers.html
+file_type: 4
+
+string sequence: 000112760219027324
+filing date20190823
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219027324/0001127602-19-027324-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337919000010
+filing date20190808
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337919000010/0000103379-19-000010-index-headers.html
+file_type: 4
+
+string sequence: 000112760219026040
+filing date20190805
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219026040/0001127602-19-026040-index-headers.html
+file_type: 4
+
+string sequence: 000112760219025450
+filing date20190730
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219025450/0001127602-19-025450-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752319001567
+filing date20190724
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752319001567/0001157523-19-001567-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519194922
+filing date20190717
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519194922/0001193125-19-194922-index-headers.html
+file_type: 8-K
+
+string sequence: 000095010319009284
+filing date20190710
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010319009284/0000950103-19-009284-index-headers.html
+file_type: 4
+
+string sequence: 000112760219023277
+filing date20190701
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023277/0001127602-19-023277-index-headers.html
+file_type: 4
+
+string sequence: 000112760219023274
+filing date20190701
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023274/0001127602-19-023274-index-headers.html
+file_type: 4
+
+string sequence: 000112760219023272
+filing date20190701
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023272/0001127602-19-023272-index-headers.html
+file_type: 4
+
+string sequence: 000112760219023270
+filing date20190701
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023270/0001127602-19-023270-index-headers.html
+file_type: 4
+
+string sequence: 000112760219023266
+filing date20190701
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023266/0001127602-19-023266-index-headers.html
+file_type: 4
+
+string sequence: 000112760219023264
+filing date20190701
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023264/0001127602-19-023264-index-headers.html
+file_type: 4
+
+string sequence: 000112760219023262
+filing date20190701
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023262/0001127602-19-023262-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023071
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023071/0001127602-19-023071-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023069
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023069/0001127602-19-023069-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023067
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023067/0001127602-19-023067-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023065
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023065/0001127602-19-023065-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023063
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023063/0001127602-19-023063-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023061
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023061/0001127602-19-023061-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023059
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023059/0001127602-19-023059-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023057
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023057/0001127602-19-023057-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023054
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023054/0001127602-19-023054-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023052
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023052/0001127602-19-023052-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023050
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023050/0001127602-19-023050-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023048
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023048/0001127602-19-023048-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023046
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023046/0001127602-19-023046-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023044
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023044/0001127602-19-023044-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023042
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023042/0001127602-19-023042-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023039
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023039/0001127602-19-023039-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023037
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023037/0001127602-19-023037-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760219023035
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023035/0001127602-19-023035-index-headers.html
+file_type: 3/A
+
+string sequence: 000112760219023033
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023033/0001127602-19-023033-index-headers.html
+file_type: 3/A
+
+string sequence: 000112760219023030
+filing date20190628
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219023030/0001127602-19-023030-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312519181144
+filing date20190625
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519181144/0001193125-19-181144-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312519166647
+filing date20190606
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519166647/0001193125-19-166647-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312519166645
+filing date20190606
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519166645/0001193125-19-166645-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020573
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020573/0001127602-19-020573-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020572
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020572/0001127602-19-020572-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020571
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020571/0001127602-19-020571-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020570
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020570/0001127602-19-020570-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020569
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020569/0001127602-19-020569-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020568
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020568/0001127602-19-020568-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020566
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020566/0001127602-19-020566-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519163357
+filing date20190603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519163357/0001193125-19-163357-index-headers.html
+file_type: 4
+
+string sequence: 000095010319007185
+filing date20190530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010319007185/0000950103-19-007185-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519159645
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519159645/0001193125-19-159645-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020121
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020121/0001127602-19-020121-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020120
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020120/0001127602-19-020120-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020119
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020119/0001127602-19-020119-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020118
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020118/0001127602-19-020118-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020117
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020117/0001127602-19-020117-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020116
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020116/0001127602-19-020116-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020115
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020115/0001127602-19-020115-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020114
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020114/0001127602-19-020114-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020112
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020112/0001127602-19-020112-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020111
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020111/0001127602-19-020111-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020109
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020109/0001127602-19-020109-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020108
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020108/0001127602-19-020108-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020107
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020107/0001127602-19-020107-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020106
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020106/0001127602-19-020106-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020105
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020105/0001127602-19-020105-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020104
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020104/0001127602-19-020104-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020103
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020103/0001127602-19-020103-index-headers.html
+file_type: 4
+
+string sequence: 000112760219020102
+filing date20190529
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219020102/0001127602-19-020102-index-headers.html
+file_type: 4
+
+string sequence: 000095010319006785
+filing date20190524
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010319006785/0000950103-19-006785-index-headers.html
+file_type: 10-K
+
+string sequence: 000010337919000006
+filing date20190524
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337919000006/0000103379-19-000006-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519155382
+filing date20190523
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519155382/0001193125-19-155382-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752319001274
+filing date20190522
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752319001274/0001157523-19-001274-index-headers.html
+file_type: SD
+
+string sequence: 000119312519151879
+filing date20190520
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519151879/0001193125-19-151879-index-headers.html
+file_type: 4
+
+string sequence: 000095010319006379
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010319006379/0000950103-19-006379-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018412
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018412/0001127602-19-018412-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018411
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018411/0001127602-19-018411-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018410
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018410/0001127602-19-018410-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018409
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018409/0001127602-19-018409-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018408
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018408/0001127602-19-018408-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018407
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018407/0001127602-19-018407-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018406
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018406/0001127602-19-018406-index-headers.html
+file_type: 4
+
+string sequence: 000112760219018405
+filing date20190514
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219018405/0001127602-19-018405-index-headers.html
+file_type: 3
+
+string sequence: 000095010319006094
+filing date20190507
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010319006094/0000950103-19-006094-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519127035
+filing date20190430
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519127035/0001193125-19-127035-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519120774
+filing date20190426
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519120774/0001193125-19-120774-index-headers.html
+file_type: 8-K
+
+string sequence: 000095010319005075
+filing date20190424
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000095010319005075/0000950103-19-005075-index-headers.html
+file_type: 4
+
+string sequence: 000112760219013672
+filing date20190401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219013672/0001127602-19-013672-index-headers.html
+file_type: 4
+
+string sequence: 000112760219013669
+filing date20190401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219013669/0001127602-19-013669-index-headers.html
+file_type: 4
+
+string sequence: 000112760219013667
+filing date20190401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219013667/0001127602-19-013667-index-headers.html
+file_type: 4
+
+string sequence: 000112760219013666
+filing date20190401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219013666/0001127602-19-013666-index-headers.html
+file_type: 4
+
+string sequence: 000112760219013665
+filing date20190401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219013665/0001127602-19-013665-index-headers.html
+file_type: 4
+
+string sequence: 000112760219013664
+filing date20190401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219013664/0001127602-19-013664-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519093551
+filing date20190401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519093551/0001193125-19-093551-index-headers.html
+file_type: 4
+
+string sequence: 000112760219011631
+filing date20190318
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219011631/0001127602-19-011631-index-headers.html
+file_type: 3
+
+string sequence: 000112760219011326
+filing date20190314
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219011326/0001127602-19-011326-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312519074024
+filing date20190314
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519074024/0001193125-19-074024-index-headers.html
+file_type: 4
+
+string sequence: 000112760219006478
+filing date20190219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219006478/0001127602-19-006478-index-headers.html
+file_type: 4
+
+string sequence: 000112760219006477
+filing date20190219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219006477/0001127602-19-006477-index-headers.html
+file_type: 4
+
+string sequence: 000112760219005522
+filing date20190213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219005522/0001127602-19-005522-index-headers.html
+file_type: 4
+
+string sequence: 000112760219005216
+filing date20190212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219005216/0001127602-19-005216-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000090221919000293
+filing date20190212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000090221919000293/0000902219-19-000293-index-headers.html
+file_type: 4
+
+string sequence: 000112760219005018
+filing date20190211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219005018/0001127602-19-005018-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000093247119004893
+filing date20190211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000093247119004893/0000932471-19-004893-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000021545719005668
+filing date20190206
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000021545719005668/0000215457-19-005668-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337919000003
+filing date20190204
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337919000003/0000103379-19-000003-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312519024945
+filing date20190201
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519024945/0001193125-19-024945-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312519024930
+filing date20190201
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519024930/0001193125-19-024930-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312519024906
+filing date20190201
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312519024906/0001193125-19-024906-index-headers.html
+file_type: 4
+
+string sequence: 000112760219002844
+filing date20190129
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219002844/0001127602-19-002844-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752319000094
+filing date20190118
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752319000094/0001157523-19-000094-index-headers.html
+file_type: 4
+
+string sequence: 000112760219000043
+filing date20190102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219000043/0001127602-19-000043-index-headers.html
+file_type: 4
+
+string sequence: 000112760219000041
+filing date20190102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219000041/0001127602-19-000041-index-headers.html
+file_type: 4
+
+string sequence: 000112760219000040
+filing date20190102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219000040/0001127602-19-000040-index-headers.html
+file_type: 4
+
+string sequence: 000112760219000039
+filing date20190102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219000039/0001127602-19-000039-index-headers.html
+file_type: 4
+
+string sequence: 000112760219000038
+filing date20190102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219000038/0001127602-19-000038-index-headers.html
+file_type: 4
+
+string sequence: 000112760219000037
+filing date20190102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219000037/0001127602-19-000037-index-headers.html
+file_type: 4
+
+string sequence: 000112760219000033
+filing date20190102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760219000033/0001127602-19-000033-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337918000013
+filing date20181031
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337918000013/0000103379-18-000013-index-headers.html
+file_type: 4
+
+string sequence: 000112760218030934
+filing date20181025
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218030934/0001127602-18-030934-index-headers.html
+file_type: 4
+
+string sequence: 000112760218030933
+filing date20181025
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218030933/0001127602-18-030933-index-headers.html
+file_type: 4
+
+string sequence: 000112760218030923
+filing date20181025
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218030923/0001127602-18-030923-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752318002073
+filing date20181019
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752318002073/0001157523-18-002073-index-headers.html
+file_type: 4
+
+string sequence: 000112760218030125
+filing date20181015
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218030125/0001127602-18-030125-index-headers.html
+file_type: 4
+
+string sequence: 000112760218030124
+filing date20181015
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218030124/0001127602-18-030124-index-headers.html
+file_type: 4
+
+string sequence: 000112760218028685
+filing date20181001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218028685/0001127602-18-028685-index-headers.html
+file_type: 4
+
+string sequence: 000112760218028682
+filing date20181001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218028682/0001127602-18-028682-index-headers.html
+file_type: 4
+
+string sequence: 000112760218028680
+filing date20181001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218028680/0001127602-18-028680-index-headers.html
+file_type: 4
+
+string sequence: 000112760218028678
+filing date20181001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218028678/0001127602-18-028678-index-headers.html
+file_type: 4
+
+string sequence: 000112760218028677
+filing date20181001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218028677/0001127602-18-028677-index-headers.html
+file_type: 4
+
+string sequence: 000112760218028674
+filing date20181001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218028674/0001127602-18-028674-index-headers.html
+file_type: 4
+
+string sequence: 000112760218028672
+filing date20181001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218028672/0001127602-18-028672-index-headers.html
+file_type: 4
+
+string sequence: 000112760218026373
+filing date20180828
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218026373/0001127602-18-026373-index-headers.html
+file_type: 4
+
+string sequence: 000112760218025961
+filing date20180822
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218025961/0001127602-18-025961-index-headers.html
+file_type: 4
+
+string sequence: 000112760218025866
+filing date20180821
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218025866/0001127602-18-025866-index-headers.html
+file_type: 4
+
+string sequence: 000112760218025382
+filing date20180815
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218025382/0001127602-18-025382-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752318001797
+filing date20180813
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752318001797/0001157523-18-001797-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337918000009
+filing date20180809
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337918000009/0000103379-18-000009-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752318001466
+filing date20180720
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752318001466/0001157523-18-001466-index-headers.html
+file_type: 4
+
+string sequence: 000112760218023216
+filing date20180716
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218023216/0001127602-18-023216-index-headers.html
+file_type: 4
+
+string sequence: 000112760218023215
+filing date20180716
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218023215/0001127602-18-023215-index-headers.html
+file_type: 4
+
+string sequence: 000112760218022117
+filing date20180702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218022117/0001127602-18-022117-index-headers.html
+file_type: 4
+
+string sequence: 000112760218022116
+filing date20180702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218022116/0001127602-18-022116-index-headers.html
+file_type: 4
+
+string sequence: 000112760218022115
+filing date20180702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218022115/0001127602-18-022115-index-headers.html
+file_type: 4
+
+string sequence: 000112760218022114
+filing date20180702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218022114/0001127602-18-022114-index-headers.html
+file_type: 4
+
+string sequence: 000112760218022113
+filing date20180702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218022113/0001127602-18-022113-index-headers.html
+file_type: 4
+
+string sequence: 000112760218022112
+filing date20180702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218022112/0001127602-18-022112-index-headers.html
+file_type: 4
+
+string sequence: 000112760218022111
+filing date20180702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218022111/0001127602-18-022111-index-headers.html
+file_type: 4
+
+string sequence: 000112760218021000
+filing date20180615
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218021000/0001127602-18-021000-index-headers.html
+file_type: 4
+
+string sequence: 000112760218020859
+filing date20180614
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218020859/0001127602-18-020859-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312518187742
+filing date20180608
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518187742/0001193125-18-187742-index-headers.html
+file_type: SD
+
+string sequence: 000119312518177053
+filing date20180530
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518177053/0001193125-18-177053-index-headers.html
+file_type: 4
+
+string sequence: 000112760218018223
+filing date20180521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218018223/0001127602-18-018223-index-headers.html
+file_type: 4
+
+string sequence: 000112760218018222
+filing date20180521
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218018222/0001127602-18-018222-index-headers.html
+file_type: 4
+
+string sequence: 000112760218017801
+filing date20180517
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218017801/0001127602-18-017801-index-headers.html
+file_type: 4
+
+string sequence: 000112760218017461
+filing date20180515
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218017461/0001127602-18-017461-index-headers.html
+file_type: 10-QT
+
+string sequence: 000010337918000006
+filing date20180510
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337918000006/0000103379-18-000006-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752318000993
+filing date20180504
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752318000993/0001157523-18-000993-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312518128824
+filing date20180424
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518128824/0001193125-18-128824-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013194
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013194/0001127602-18-013194-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013193
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013193/0001127602-18-013193-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013192
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013192/0001127602-18-013192-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013190
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013190/0001127602-18-013190-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013189
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013189/0001127602-18-013189-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013186
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013186/0001127602-18-013186-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013185
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013185/0001127602-18-013185-index-headers.html
+file_type: 4
+
+string sequence: 000112760218013184
+filing date20180402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218013184/0001127602-18-013184-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312518082388
+filing date20180314
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518082388/0001193125-18-082388-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312518082379
+filing date20180314
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518082379/0001193125-18-082379-index-headers.html
+file_type: 4
+
+string sequence: 000112760218010649
+filing date20180308
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218010649/0001127602-18-010649-index-headers.html
+file_type: S-3ASR
+
+string sequence: 000119312518063386
+filing date20180228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518063386/0001193125-18-063386-index-headers.html
+file_type: 10-K
+
+string sequence: 000010337918000003
+filing date20180228
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337918000003/0000103379-18-000003-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007974
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007974/0001127602-18-007974-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007972
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007972/0001127602-18-007972-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007970
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007970/0001127602-18-007970-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007969
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007969/0001127602-18-007969-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007967
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007967/0001127602-18-007967-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007965
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007965/0001127602-18-007965-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007963
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007963/0001127602-18-007963-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007962
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007962/0001127602-18-007962-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007960
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007960/0001127602-18-007960-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007957
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007957/0001127602-18-007957-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007954
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007954/0001127602-18-007954-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007898
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007898/0001127602-18-007898-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007897
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007897/0001127602-18-007897-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007895
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007895/0001127602-18-007895-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007893
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007893/0001127602-18-007893-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007891
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007891/0001127602-18-007891-index-headers.html
+file_type: 4
+
+string sequence: 000112760218007890
+filing date20180223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007890/0001127602-18-007890-index-headers.html
+file_type: 3
+
+string sequence: 000112760218007722
+filing date20180222
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007722/0001127602-18-007722-index-headers.html
+file_type: 3
+
+string sequence: 000112760218007721
+filing date20180222
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218007721/0001127602-18-007721-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752318000357
+filing date20180216
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752318000357/0001157523-18-000357-index-headers.html
+file_type: 4
+
+string sequence: 000112760218005705
+filing date20180214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218005705/0001127602-18-005705-index-headers.html
+file_type: 4
+
+string sequence: 000112760218005703
+filing date20180214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218005703/0001127602-18-005703-index-headers.html
+file_type: 4
+
+string sequence: 000112760218005702
+filing date20180214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218005702/0001127602-18-005702-index-headers.html
+file_type: 4
+
+string sequence: 000112760218005700
+filing date20180214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218005700/0001127602-18-005700-index-headers.html
+file_type: 4
+
+string sequence: 000112760218005698
+filing date20180214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218005698/0001127602-18-005698-index-headers.html
+file_type: 4
+
+string sequence: 000112760218005696
+filing date20180214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218005696/0001127602-18-005696-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000093247118003964
+filing date20180209
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000093247118003964/0000932471-18-003964-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000090221918000401
+filing date20180208
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000090221918000401/0000902219-18-000401-index-headers.html
+file_type: SC 13G
+
+string sequence: 000021545718005231
+filing date20180208
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000021545718005231/0000215457-18-005231-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312518030008
+filing date20180202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518030008/0001193125-18-030008-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312518030007
+filing date20180202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518030007/0001193125-18-030007-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312518030004
+filing date20180202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312518030004/0001193125-18-030004-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760218001237
+filing date20180105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218001237/0001127602-18-001237-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760218001236
+filing date20180105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218001236/0001127602-18-001236-index-headers.html
+file_type: 5/A
+
+string sequence: 000112760218001235
+filing date20180105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218001235/0001127602-18-001235-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760218001234
+filing date20180105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218001234/0001127602-18-001234-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760218001226
+filing date20180105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218001226/0001127602-18-001226-index-headers.html
+file_type: 5
+
+string sequence: 000112760218000925
+filing date20180104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000925/0001127602-18-000925-index-headers.html
+file_type: 5
+
+string sequence: 000112760218000439
+filing date20180103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000439/0001127602-18-000439-index-headers.html
+file_type: 4/A
+
+string sequence: 000112760218000354
+filing date20180103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000354/0001127602-18-000354-index-headers.html
+file_type: 4
+
+string sequence: 000112760218000031
+filing date20180102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000031/0001127602-18-000031-index-headers.html
+file_type: 4
+
+string sequence: 000112760218000029
+filing date20180102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000029/0001127602-18-000029-index-headers.html
+file_type: 4
+
+string sequence: 000112760218000028
+filing date20180102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000028/0001127602-18-000028-index-headers.html
+file_type: 4
+
+string sequence: 000112760218000027
+filing date20180102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000027/0001127602-18-000027-index-headers.html
+file_type: 4
+
+string sequence: 000112760218000026
+filing date20180102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000026/0001127602-18-000026-index-headers.html
+file_type: 4
+
+string sequence: 000112760218000024
+filing date20180102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760218000024/0001127602-18-000024-index-headers.html
+file_type: 4
+
+string sequence: 000112760217032945
+filing date20171121
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217032945/0001127602-17-032945-index-headers.html
+file_type: 4
+
+string sequence: 000112760217032788
+filing date20171120
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217032788/0001127602-17-032788-index-headers.html
+file_type: 4
+
+string sequence: 000112760217032302
+filing date20171116
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217032302/0001127602-17-032302-index-headers.html
+file_type: 4
+
+string sequence: 000112760217031843
+filing date20171113
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217031843/0001127602-17-031843-index-headers.html
+file_type: 4
+
+string sequence: 000112760217031695
+filing date20171109
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217031695/0001127602-17-031695-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337917000009
+filing date20171102
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337917000009/0000103379-17-000009-index-headers.html
+file_type: 4
+
+string sequence: 000112760217030430
+filing date20171030
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217030430/0001127602-17-030430-index-headers.html
+file_type: 4
+
+string sequence: 000112760217030366
+filing date20171027
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217030366/0001127602-17-030366-index-headers.html
+file_type: 4
+
+string sequence: 000112760217030365
+filing date20171027
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217030365/0001127602-17-030365-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317002731
+filing date20171023
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317002731/0001157523-17-002731-index-headers.html
+file_type: 4
+
+string sequence: 000112760217028557
+filing date20171002
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217028557/0001127602-17-028557-index-headers.html
+file_type: 4
+
+string sequence: 000112760217028556
+filing date20171002
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217028556/0001127602-17-028556-index-headers.html
+file_type: 4
+
+string sequence: 000112760217028554
+filing date20171002
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217028554/0001127602-17-028554-index-headers.html
+file_type: 4
+
+string sequence: 000112760217028553
+filing date20171002
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217028553/0001127602-17-028553-index-headers.html
+file_type: 4
+
+string sequence: 000112760217028552
+filing date20171002
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217028552/0001127602-17-028552-index-headers.html
+file_type: 4
+
+string sequence: 000112760217028551
+filing date20171002
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217028551/0001127602-17-028551-index-headers.html
+file_type: 4
+
+string sequence: 000112760217026949
+filing date20170905
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217026949/0001127602-17-026949-index-headers.html
+file_type: 4
+
+string sequence: 000112760217026870
+filing date20170905
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217026870/0001127602-17-026870-index-headers.html
+file_type: 4
+
+string sequence: 000112760217026614
+filing date20170829
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217026614/0001127602-17-026614-index-headers.html
+file_type: 4
+
+string sequence: 000112760217026175
+filing date20170822
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217026175/0001127602-17-026175-index-headers.html
+file_type: 4
+
+string sequence: 000112760217026064
+filing date20170821
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000112760217026064/0001127602-17-026064-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317002358
+filing date20170814
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317002358/0001157523-17-002358-index-headers.html
+file_type: 10-Q
+
+string sequence: 000010337917000006
+filing date20170802
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000010337917000006/0000103379-17-000006-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317002031
+filing date20170724
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317002031/0001157523-17-002031-index-headers.html
+file_type: 4
+
+string sequence: 000124636017002288
+filing date20170705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017002288/0001246360-17-002288-index-headers.html
+file_type: 4
+
+string sequence: 000124636017002287
+filing date20170705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017002287/0001246360-17-002287-index-headers.html
+file_type: 4
+
+string sequence: 000124636017002286
+filing date20170705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017002286/0001246360-17-002286-index-headers.html
+file_type: 4
+
+string sequence: 000124636017002285
+filing date20170705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017002285/0001246360-17-002285-index-headers.html
+file_type: 4
+
+string sequence: 000124636017002284
+filing date20170705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017002284/0001246360-17-002284-index-headers.html
+file_type: 4
+
+string sequence: 000124636017002283
+filing date20170705
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017002283/0001246360-17-002283-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312517209085
+filing date20170621
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517209085/0001193125-17-209085-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317001813
+filing date20170621
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317001813/0001157523-17-001813-index-headers.html
+file_type: SD
+
+string sequence: 000119312517185479
+filing date20170526
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517185479/0001193125-17-185479-index-headers.html
+file_type: 10-Q
+
+string sequence: 000162828017005333
+filing date20170510
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000162828017005333/0001628280-17-005333-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317001274
+filing date20170428
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317001274/0001157523-17-001274-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312517139169
+filing date20170426
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517139169/0001193125-17-139169-index-headers.html
+file_type: 3
+
+string sequence: 000124636017001517
+filing date20170403
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017001517/0001246360-17-001517-index-headers.html
+file_type: 4
+
+string sequence: 000124636017001516
+filing date20170403
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017001516/0001246360-17-001516-index-headers.html
+file_type: 4
+
+string sequence: 000124636017001515
+filing date20170403
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017001515/0001246360-17-001515-index-headers.html
+file_type: 4
+
+string sequence: 000124636017001514
+filing date20170403
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017001514/0001246360-17-001514-index-headers.html
+file_type: 4
+
+string sequence: 000124636017001513
+filing date20170403
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017001513/0001246360-17-001513-index-headers.html
+file_type: 4
+
+string sequence: 000124636017001512
+filing date20170403
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017001512/0001246360-17-001512-index-headers.html
+file_type: 4
+
+string sequence: 000124636017001511
+filing date20170403
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017001511/0001246360-17-001511-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317000911
+filing date20170330
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317000911/0001157523-17-000911-index-headers.html
+file_type: DEFA14A
+
+string sequence: 000119312517084359
+filing date20170316
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517084359/0001193125-17-084359-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312517084355
+filing date20170316
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517084355/0001193125-17-084355-index-headers.html
+file_type: 10-K
+
+string sequence: 000162828017002027
+filing date20170301
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000162828017002027/0001628280-17-002027-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000999
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000999/0001246360-17-000999-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000997
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000997/0001246360-17-000997-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000996
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000996/0001246360-17-000996-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000995
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000995/0001246360-17-000995-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000994
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000994/0001246360-17-000994-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000993
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000993/0001246360-17-000993-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000992
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000992/0001246360-17-000992-index-headers.html
+file_type: 3
+
+string sequence: 000124636017000991
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000991/0001246360-17-000991-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000990
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000990/0001246360-17-000990-index-headers.html
+file_type: 3
+
+string sequence: 000124636017000989
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000989/0001246360-17-000989-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000988
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000988/0001246360-17-000988-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000987
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000987/0001246360-17-000987-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000986
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000986/0001246360-17-000986-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000985
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000985/0001246360-17-000985-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000984
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000984/0001246360-17-000984-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000983
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000983/0001246360-17-000983-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000982
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000982/0001246360-17-000982-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000981
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000981/0001246360-17-000981-index-headers.html
+file_type: 3
+
+string sequence: 000124636017000980
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000980/0001246360-17-000980-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000979
+filing date20170224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000979/0001246360-17-000979-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317000537
+filing date20170217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317000537/0001157523-17-000537-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000737
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000737/0001246360-17-000737-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000736
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000736/0001246360-17-000736-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000735
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000735/0001246360-17-000735-index-headers.html
+file_type: 4/A
+
+string sequence: 000124636017000734
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000734/0001246360-17-000734-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000733
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000733/0001246360-17-000733-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000732
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000732/0001246360-17-000732-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000730
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000730/0001246360-17-000730-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000729
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000729/0001246360-17-000729-index-headers.html
+file_type: 4/A
+
+string sequence: 000124636017000728
+filing date20170215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000728/0001246360-17-000728-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752317000479
+filing date20170214
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752317000479/0001157523-17-000479-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000142284917000129
+filing date20170213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000142284917000129/0001422849-17-000129-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000581
+filing date20170213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000581/0001246360-17-000581-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000580
+filing date20170213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000580/0001246360-17-000580-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000574
+filing date20170213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000574/0001246360-17-000574-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000093247117002236
+filing date20170210
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000093247117002236/0000932471-17-002236-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312517035968
+filing date20170209
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517035968/0001193125-17-035968-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312517035959
+filing date20170209
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517035959/0001193125-17-035959-index-headers.html
+file_type: SC 13G
+
+string sequence: 000090221917000408
+filing date20170209
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000090221917000408/0000902219-17-000408-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312517029846
+filing date20170203
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312517029846/0001193125-17-029846-index-headers.html
+file_type: 5
+
+string sequence: 000124636017000024
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000024/0001246360-17-000024-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000023
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000023/0001246360-17-000023-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000021
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000021/0001246360-17-000021-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000020
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000020/0001246360-17-000020-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000019
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000019/0001246360-17-000019-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000018
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000018/0001246360-17-000018-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000017
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000017/0001246360-17-000017-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000016
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000016/0001246360-17-000016-index-headers.html
+file_type: 4
+
+string sequence: 000124636017000015
+filing date20170103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636017000015/0001246360-17-000015-index-headers.html
+file_type: 4
+
+string sequence: 000124636016007533
+filing date20161229
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016007533/0001246360-16-007533-index-headers.html
+file_type: 8-K/A
+
+string sequence: 000119312516793731
+filing date20161215
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516793731/0001193125-16-793731-index-headers.html
+file_type: 4
+
+string sequence: 000124636016007337
+filing date20161207
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016007337/0001246360-16-007337-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312516787024
+filing date20161207
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516787024/0001193125-16-787024-index-headers.html
+file_type: 4
+
+string sequence: 000124636016007272
+filing date20161205
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016007272/0001246360-16-007272-index-headers.html
+file_type: 4
+
+string sequence: 000124636016007266
+filing date20161202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016007266/0001246360-16-007266-index-headers.html
+file_type: 4
+
+string sequence: 000124636016007263
+filing date20161202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016007263/0001246360-16-007263-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312516758861
+filing date20161103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516758861/0001193125-16-758861-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752316006947
+filing date20161024
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752316006947/0001157523-16-006947-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752316006829
+filing date20161005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752316006829/0001157523-16-006829-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006866
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006866/0001246360-16-006866-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006865
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006865/0001246360-16-006865-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006864
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006864/0001246360-16-006864-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006863
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006863/0001246360-16-006863-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006862
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006862/0001246360-16-006862-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006861
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006861/0001246360-16-006861-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006860
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006860/0001246360-16-006860-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006859
+filing date20161003
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006859/0001246360-16-006859-index-headers.html
+file_type: CERTNYS
+
+string sequence: 999999999716026104
+filing date20160926
+
+url: https://www.sec.gov/Archives/edgar/data/103379/999999999716026104/9999999997-16-026104-index-headers.html
+file_type: 8-A12B
+
+string sequence: 000119312516718427
+filing date20160923
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516718427/0001193125-16-718427-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312516713995
+filing date20160920
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516713995/0001193125-16-713995-index-headers.html
+file_type: 424B5
+
+string sequence: 000119312516711102
+filing date20160915
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516711102/0001193125-16-711102-index-headers.html
+file_type: FWP
+
+string sequence: 000119312516708553
+filing date20160913
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516708553/0001193125-16-708553-index-headers.html
+file_type: 424B3
+
+string sequence: 000119312516707752
+filing date20160913
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516707752/0001193125-16-707752-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312516694069
+filing date20160826
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516694069/0001193125-16-694069-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006570
+filing date20160822
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006570/0001246360-16-006570-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006481
+filing date20160811
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006481/0001246360-16-006481-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312516673515
+filing date20160805
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516673515/0001193125-16-673515-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752316006150
+filing date20160722
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752316006150/0001157523-16-006150-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006259
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006259/0001246360-16-006259-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006258
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006258/0001246360-16-006258-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006257
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006257/0001246360-16-006257-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006256
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006256/0001246360-16-006256-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006255
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006255/0001246360-16-006255-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006254
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006254/0001246360-16-006254-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006253
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006253/0001246360-16-006253-index-headers.html
+file_type: 4
+
+string sequence: 000124636016006252
+filing date20160706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016006252/0001246360-16-006252-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312516638485
+filing date20160630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516638485/0001193125-16-638485-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312516621273
+filing date20160614
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516621273/0001193125-16-621273-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312516615459
+filing date20160607
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516615459/0001193125-16-615459-index-headers.html
+file_type: SD
+
+string sequence: 000119312516602383
+filing date20160525
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516602383/0001193125-16-602383-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312516585493
+filing date20160510
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516585493/0001193125-16-585493-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752316005332
+filing date20160429
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752316005332/0001157523-16-005332-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312516559617
+filing date20160427
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516559617/0001193125-16-559617-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005428
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005428/0001246360-16-005428-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005427
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005427/0001246360-16-005427-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005426
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005426/0001246360-16-005426-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005425
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005425/0001246360-16-005425-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005424
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005424/0001246360-16-005424-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005423
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005423/0001246360-16-005423-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005422
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005422/0001246360-16-005422-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005421
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005421/0001246360-16-005421-index-headers.html
+file_type: 4
+
+string sequence: 000124636016005420
+filing date20160405
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016005420/0001246360-16-005420-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312516515958
+filing date20160324
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516515958/0001193125-16-515958-index-headers.html
+file_type: 5
+
+string sequence: 000124636016004924
+filing date20160308
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004924/0001246360-16-004924-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004909
+filing date20160308
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004909/0001246360-16-004909-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004895
+filing date20160307
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004895/0001246360-16-004895-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004869
+filing date20160303
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004869/0001246360-16-004869-index-headers.html
+file_type: S-8 POS
+
+string sequence: 000119312516489883
+filing date20160302
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516489883/0001193125-16-489883-index-headers.html
+file_type: 10-K
+
+string sequence: 000119312516489832
+filing date20160302
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516489832/0001193125-16-489832-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004809
+filing date20160302
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004809/0001246360-16-004809-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004723
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004723/0001246360-16-004723-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004718
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004718/0001246360-16-004718-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004717
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004717/0001246360-16-004717-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004716
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004716/0001246360-16-004716-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004715
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004715/0001246360-16-004715-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004713
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004713/0001246360-16-004713-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004712
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004712/0001246360-16-004712-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004704
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004704/0001246360-16-004704-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004702
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004702/0001246360-16-004702-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004701
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004701/0001246360-16-004701-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004700
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004700/0001246360-16-004700-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004699
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004699/0001246360-16-004699-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004698
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004698/0001246360-16-004698-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004697
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004697/0001246360-16-004697-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004696
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004696/0001246360-16-004696-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004695
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004695/0001246360-16-004695-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004692
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004692/0001246360-16-004692-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004690
+filing date20160225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004690/0001246360-16-004690-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752316004643
+filing date20160219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752316004643/0001157523-16-004643-index-headers.html
+file_type: 3
+
+string sequence: 000124636016004602
+filing date20160218
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004602/0001246360-16-004602-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312516467320
+filing date20160218
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516467320/0001193125-16-467320-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004577
+filing date20160217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004577/0001246360-16-004577-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004575
+filing date20160217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004575/0001246360-16-004575-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004573
+filing date20160217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004573/0001246360-16-004573-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004557
+filing date20160217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004557/0001246360-16-004557-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004556
+filing date20160217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004556/0001246360-16-004556-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004555
+filing date20160217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004555/0001246360-16-004555-index-headers.html
+file_type: 4
+
+string sequence: 000124636016004554
+filing date20160217
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016004554/0001246360-16-004554-index-headers.html
+file_type: SC 13G
+
+string sequence: 000142284916000684
+filing date20160216
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000142284916000684/0001422849-16-000684-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312516461271
+filing date20160212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516461271/0001193125-16-461271-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312516461260
+filing date20160212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516461260/0001193125-16-461260-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312516461255
+filing date20160212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312516461255/0001193125-16-461255-index-headers.html
+file_type: SC 13G
+
+string sequence: 000093247116012020
+filing date20160211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000093247116012020/0000932471-16-012020-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003956
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003956/0001246360-16-003956-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003955
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003955/0001246360-16-003955-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003954
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003954/0001246360-16-003954-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003953
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003953/0001246360-16-003953-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003952
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003952/0001246360-16-003952-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003951
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003951/0001246360-16-003951-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003949
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003949/0001246360-16-003949-index-headers.html
+file_type: 4
+
+string sequence: 000124636016003948
+filing date20160104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636016003948/0001246360-16-003948-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003808
+filing date20151211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003808/0001246360-15-003808-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003641
+filing date20151125
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003641/0001246360-15-003641-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003515
+filing date20151109
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003515/0001246360-15-003515-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312515369938
+filing date20151106
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515369938/0001193125-15-369938-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003407
+filing date20151029
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003407/0001246360-15-003407-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752315003405
+filing date20151023
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752315003405/0001157523-15-003405-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003268
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003268/0001246360-15-003268-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003267
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003267/0001246360-15-003267-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003266
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003266/0001246360-15-003266-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003265
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003265/0001246360-15-003265-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003264
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003264/0001246360-15-003264-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003263
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003263/0001246360-15-003263-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003262
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003262/0001246360-15-003262-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003261
+filing date20151005
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003261/0001246360-15-003261-index-headers.html
+file_type: 4
+
+string sequence: 000124636015003131
+filing date20150917
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015003131/0001246360-15-003131-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002876
+filing date20150812
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002876/0001246360-15-002876-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002861
+filing date20150811
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002861/0001246360-15-002861-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002836
+filing date20150810
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002836/0001246360-15-002836-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312515283008
+filing date20150807
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515283008/0001193125-15-283008-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002776
+filing date20150804
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002776/0001246360-15-002776-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002760
+filing date20150731
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002760/0001246360-15-002760-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002727
+filing date20150729
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002727/0001246360-15-002727-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752315002494
+filing date20150724
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752315002494/0001157523-15-002494-index-headers.html
+file_type: 8-K/A
+
+string sequence: 000119312515259050
+filing date20150722
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515259050/0001193125-15-259050-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000021545715000841
+filing date20150710
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000021545715000841/0000215457-15-000841-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002639
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002639/0001246360-15-002639-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002638
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002638/0001246360-15-002638-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002637
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002637/0001246360-15-002637-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002636
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002636/0001246360-15-002636-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002635
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002635/0001246360-15-002635-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002634
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002634/0001246360-15-002634-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002633
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002633/0001246360-15-002633-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002632
+filing date20150706
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002632/0001246360-15-002632-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312515235276
+filing date20150625
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515235276/0001193125-15-235276-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312515235272
+filing date20150625
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515235272/0001193125-15-235272-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312515235270
+filing date20150625
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515235270/0001193125-15-235270-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752315002167
+filing date20150624
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752315002167/0001157523-15-002167-index-headers.html
+file_type: 4
+
+string sequence: 000119248215000227
+filing date20150603
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119248215000227/0001192482-15-000227-index-headers.html
+file_type: SD
+
+string sequence: 000119312515209130
+filing date20150601
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515209130/0001193125-15-209130-index-headers.html
+file_type: 4
+
+string sequence: 000124636015002177
+filing date20150515
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015002177/0001246360-15-002177-index-headers.html
+file_type: S-8
+
+string sequence: 000119312515184060
+filing date20150512
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515184060/0001193125-15-184060-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312515183697
+filing date20150512
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515183697/0001193125-15-183697-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752315001506
+filing date20150501
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752315001506/0001157523-15-001506-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312515153140
+filing date20150428
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515153140/0001193125-15-153140-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312515131338
+filing date20150415
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515131338/0001193125-15-131338-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001732
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001732/0001246360-15-001732-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001731
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001731/0001246360-15-001731-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001730
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001730/0001246360-15-001730-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001729
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001729/0001246360-15-001729-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001728
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001728/0001246360-15-001728-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001727
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001727/0001246360-15-001727-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001726
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001726/0001246360-15-001726-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001725
+filing date20150406
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001725/0001246360-15-001725-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312515117867
+filing date20150402
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515117867/0001193125-15-117867-index-headers.html
+file_type: 3
+
+string sequence: 000124636015001650
+filing date20150401
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001650/0001246360-15-001650-index-headers.html
+file_type: ARS
+
+string sequence: 999999999715007144
+filing date20150319
+
+url: https://www.sec.gov/Archives/edgar/data/103379/999999999715007144/9999999997-15-007144-index-headers.html
+file_type: DEF 14A
+
+string sequence: 000119312515097633
+filing date20150319
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515097633/0001193125-15-097633-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001555
+filing date20150318
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001555/0001246360-15-001555-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001414
+filing date20150306
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001414/0001246360-15-001414-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312515076953
+filing date20150304
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515076953/0001193125-15-076953-index-headers.html
+file_type: 10-K
+
+string sequence: 000119312515075174
+filing date20150303
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515075174/0001193125-15-075174-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001276
+filing date20150303
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001276/0001246360-15-001276-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001244
+filing date20150227
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001244/0001246360-15-001244-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001242
+filing date20150227
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001242/0001246360-15-001242-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001155
+filing date20150225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001155/0001246360-15-001155-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001150
+filing date20150225
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001150/0001246360-15-001150-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001109
+filing date20150224
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001109/0001246360-15-001109-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001088
+filing date20150223
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001088/0001246360-15-001088-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001054
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001054/0001246360-15-001054-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001053
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001053/0001246360-15-001053-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001052
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001052/0001246360-15-001052-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001051
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001051/0001246360-15-001051-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001050
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001050/0001246360-15-001050-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001049
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001049/0001246360-15-001049-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001048
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001048/0001246360-15-001048-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001047
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001047/0001246360-15-001047-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001046
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001046/0001246360-15-001046-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001045
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001045/0001246360-15-001045-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001044
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001044/0001246360-15-001044-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001043
+filing date20150220
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001043/0001246360-15-001043-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001018
+filing date20150219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001018/0001246360-15-001018-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001017
+filing date20150219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001017/0001246360-15-001017-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001016
+filing date20150219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001016/0001246360-15-001016-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001015
+filing date20150219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001015/0001246360-15-001015-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001012
+filing date20150219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001012/0001246360-15-001012-index-headers.html
+file_type: 4
+
+string sequence: 000124636015001011
+filing date20150219
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015001011/0001246360-15-001011-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000880
+filing date20150218
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000880/0001246360-15-000880-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000879
+filing date20150218
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000879/0001246360-15-000879-index-headers.html
+file_type: 3
+
+string sequence: 000124636015000845
+filing date20150213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000845/0001246360-15-000845-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000142284915000300
+filing date20150213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000142284915000300/0001422849-15-000300-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752315000562
+filing date20150213
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752315000562/0001157523-15-000562-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312515045508
+filing date20150212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515045508/0001193125-15-045508-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312515045504
+filing date20150212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515045504/0001193125-15-045504-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000119312515045500
+filing date20150212
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515045500/0001193125-15-045500-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000768
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000768/0001246360-15-000768-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000767
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000767/0001246360-15-000767-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000766
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000766/0001246360-15-000766-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000765
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000765/0001246360-15-000765-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000764
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000764/0001246360-15-000764-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000763
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000763/0001246360-15-000763-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000762
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000762/0001246360-15-000762-index-headers.html
+file_type: 8-K
+
+string sequence: 000119312515043878
+filing date20150211
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312515043878/0001193125-15-043878-index-headers.html
+file_type: SC 13G/A
+
+string sequence: 000108636415001641
+filing date20150202
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000108636415001641/0001086364-15-001641-index-headers.html
+file_type: 5
+
+string sequence: 000124636015000075
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000075/0001246360-15-000075-index-headers.html
+file_type: 5
+
+string sequence: 000124636015000074
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000074/0001246360-15-000074-index-headers.html
+file_type: 5
+
+string sequence: 000124636015000073
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000073/0001246360-15-000073-index-headers.html
+file_type: 5
+
+string sequence: 000124636015000072
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000072/0001246360-15-000072-index-headers.html
+file_type: 5
+
+string sequence: 000124636015000071
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000071/0001246360-15-000071-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000070
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000070/0001246360-15-000070-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000069
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000069/0001246360-15-000069-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000068
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000068/0001246360-15-000068-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000067
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000067/0001246360-15-000067-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000066
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000066/0001246360-15-000066-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000065
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000065/0001246360-15-000065-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000064
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000064/0001246360-15-000064-index-headers.html
+file_type: 4
+
+string sequence: 000124636015000063
+filing date20150105
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636015000063/0001246360-15-000063-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004434
+filing date20141125
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004434/0001246360-14-004434-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004407
+filing date20141119
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004407/0001246360-14-004407-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312514396147
+filing date20141104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312514396147/0001193125-14-396147-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004264
+filing date20141104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004264/0001246360-14-004264-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004263
+filing date20141104
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004263/0001246360-14-004263-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004240
+filing date20141103
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004240/0001246360-14-004240-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004235
+filing date20141031
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004235/0001246360-14-004235-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004232
+filing date20141031
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004232/0001246360-14-004232-index-headers.html
+file_type: 4
+
+string sequence: 000119248214000207
+filing date20141031
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119248214000207/0001192482-14-000207-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004204
+filing date20141029
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004204/0001246360-14-004204-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004175
+filing date20141028
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004175/0001246360-14-004175-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004169
+filing date20141027
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004169/0001246360-14-004169-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004152
+filing date20141023
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004152/0001246360-14-004152-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004151
+filing date20141023
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004151/0001246360-14-004151-index-headers.html
+file_type: 4
+
+string sequence: 000124636014004150
+filing date20141023
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014004150/0001246360-14-004150-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752314003943
+filing date20141020
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752314003943/0001157523-14-003943-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752314003836
+filing date20141001
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752314003836/0001157523-14-003836-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003953
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003953/0001246360-14-003953-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003952
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003952/0001246360-14-003952-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003951
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003951/0001246360-14-003951-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003950
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003950/0001246360-14-003950-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003949
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003949/0001246360-14-003949-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003948
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003948/0001246360-14-003948-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003947
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003947/0001246360-14-003947-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003946
+filing date20140930
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003946/0001246360-14-003946-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003828
+filing date20140912
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003828/0001246360-14-003828-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003710
+filing date20140904
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003710/0001246360-14-003710-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003643
+filing date20140827
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003643/0001246360-14-003643-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003605
+filing date20140821
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003605/0001246360-14-003605-index-headers.html
+file_type: S-3ASR
+
+string sequence: 000119312514295723
+filing date20140805
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312514295723/0001193125-14-295723-index-headers.html
+file_type: 10-Q
+
+string sequence: 000119312514295667
+filing date20140805
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312514295667/0001193125-14-295667-index-headers.html
+file_type: 4/A
+
+string sequence: 000124636014003304
+filing date20140724
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003304/0001246360-14-003304-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003303
+filing date20140724
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003303/0001246360-14-003303-index-headers.html
+file_type: 4/A
+
+string sequence: 000124636014003302
+filing date20140724
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003302/0001246360-14-003302-index-headers.html
+file_type: 4/A
+
+string sequence: 000124636014003301
+filing date20140724
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003301/0001246360-14-003301-index-headers.html
+file_type: 8-K
+
+string sequence: 000115752314002865
+filing date20140718
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000115752314002865/0001157523-14-002865-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003261
+filing date20140716
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003261/0001246360-14-003261-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003120
+filing date20140702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003120/0001246360-14-003120-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003119
+filing date20140702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003119/0001246360-14-003119-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003118
+filing date20140702
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003118/0001246360-14-003118-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003087
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003087/0001246360-14-003087-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003086
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003086/0001246360-14-003086-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003084
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003084/0001246360-14-003084-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003083
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003083/0001246360-14-003083-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003082
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003082/0001246360-14-003082-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003081
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003081/0001246360-14-003081-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003080
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003080/0001246360-14-003080-index-headers.html
+file_type: 4
+
+string sequence: 000124636014003078
+filing date20140630
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000124636014003078/0001246360-14-003078-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312514235841
+filing date20140613
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312514235841/0001193125-14-235841-index-headers.html
+file_type: 11-K
+
+string sequence: 000119312514235832
+filing date20140613
+
+url: https://www.sec.gov/Archives/edgar/data/103379/000119312514235832/0001193125-14-235832-index-headers.html
+file_type: SD
+
+string sequence: 000119312514221506
+filing date20140602

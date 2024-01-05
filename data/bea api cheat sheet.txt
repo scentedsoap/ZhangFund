@@ -1,0 +1,16 @@
+datasets:
+"Regional"
+"NIPA"
+"MNE"
+"FixedAssets"
+"NIUnderlyingDetail"
+"ITA"
+"IIP"
+"GDPbyIndustry"
+
+
+methods:
+"GetDataSetList" <- gets all of the datasets that are available via api
+"GetParameterList" <- gets all of the parameters for a dataset
+"GetParameterValues" <- gets all of the values that can be input into a parameter
+

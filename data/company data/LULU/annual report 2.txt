@@ -1,0 +1,19 @@
+Net revenue:us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+Cost of goods sold:us-gaap:CostOfGoodsAndServicesSold
+Gross profit:us-gaap:GrossProfit
+Selling, general and administrative expenses:us-gaap:SellingGeneralAndAdministrativeExpense
+Amortization of intangible assets:us-gaap:AmortizationOfIntangibleAssets
+Acquisition-related expenses:us-gaap:BusinessCombinationAcquisitionRelatedCosts
+Income from operations:us-gaap:OperatingIncomeLoss
+Other income (expense), net:us-gaap:OtherNonoperatingIncomeExpense
+Income before income tax expense:us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest
+Income tax expense:us-gaap:IncomeTaxExpenseBenefit
+Net income:us-gaap:NetIncomeLoss
+Foreign currency translation adjustment:us-gaap:OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent
+Net investment hedge gains (losses):us-gaap:OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax
+Other comprehensive income (loss), net of tax:us-gaap:OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent
+Comprehensive income:us-gaap:ComprehensiveIncomeNetOfTax
+Basic earnings per share:us-gaap:EarningsPerShareBasic
+Diluted earnings per share:us-gaap:EarningsPerShareDiluted
+Basic weighted-average number of shares outstanding:us-gaap:WeightedAverageNumberOfSharesOutstandingBasic
+Diluted weighted-average number of shares outstanding:us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding

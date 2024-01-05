@@ -1,0 +1,42 @@
+SEC
+https://www.sec.gov/files/reada10k.pdf      <- how to read a 10k, shows parts
+https://www.sec.gov/os/accessing-edgar-data <- how to browse SEC directories
+
+BEA
+https://apps.bea.gov/api/_pdf/bea_web_service_api_user_guide.pdf <- bea api documentation
+https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/all-chapters.pdf <- BEA NIPA handbook
+https://www.bea.gov/resources/methodologies/nipa-handbook <- BEA resources
+
+St.Louis Fed
+https://fred.stlouisfed.org/docs/api/fred/  <- St.Louis Fed Data
+
+American Apparel & Footwear Association
+
+United States International Trade Commission
+
+Bread Financial: 
+
+https://newsroom.breadfinancial.com/insights-innovation
+
+NAICS
+
+SIC
+
+https://chinaenamericalatina.info/wp-content/uploads/2017/06/A-Tip-Sheet-on-How-to-Research-Chinese-Companies-and-Projects.pdf
+
+bea_activation_key = "0598B220-E832-4CC5-80F0-2F355A5C2FC1"
+url = f"http://apps.bea.gov/api/data?&UserID={bea_activation_key}&method=getparameterlist&datasetname=gdpbyindustry&ResultFormat=JSON"
+
+req = requests.get(url)
+print(json.dumps(req.json(), indent=1))
+
+
+
+Forbes 
+https://www.forbes.com/sites/jerrymclaughlin/2011/12/21/what-is-a-brand-anyway/
+
+Census (NAICS)
+https://www.census.gov/naics/?input=31&chart=2022&details=313
+
+import yeti
+https://www.importyeti.com/
