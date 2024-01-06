@@ -1,0 +1,3 @@
+Interesting URLs to scrape
+
+https://fashionunited.com/i/top100  -> top 100 
